@@ -1,0 +1,7 @@
+{
+  "extends": ["dicoding"],
+  "env": {
+    "node": true
+  },
+  "rules": {}
+}
